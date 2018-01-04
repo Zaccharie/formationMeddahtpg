@@ -24,3 +24,6 @@
 ```git rebase ``` 
 
 ```git stash``` Temporarily stores all modified tracked files
+
+``` git show [commit] ```  
+Outputs metadata and content changes of the specified commit
