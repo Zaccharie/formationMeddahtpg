@@ -7,7 +7,7 @@
 
 ```git log```
 
-```git checkout ``` 
+```git checkout ```
 
 ```git branch``` Lists all local branches in the current repository
 
@@ -19,7 +19,8 @@
 
 ```git push``` Creates a new local repository with the specified name
 
-```git pull ``` 
+```git pull ``` Downloads bookmark history and incorporates changes
 
 ```git rebase ``` 
 
+```git stash``` Temporarily stores all modified tracked files
